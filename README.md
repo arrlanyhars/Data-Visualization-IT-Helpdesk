@@ -1,7 +1,7 @@
 # Data-Visualization-IT-Helpdesk
 
 <h2>Objective</h2>
-In this project, we create dashboard using Looker Studio to IT Helpdesk Monitoring.
+In this project, we create dashboard using Looker Studio IT Helpdesk Monitoring.
 <h2>Team</h2>
 
 [Me](https://github.com/arrlanyhars) , [Rindang](https://github.com/rindangchi)
